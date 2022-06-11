@@ -1,5 +1,5 @@
 func main():
-    [ap] = 50; ap++
+    [ap] = 150; ap++
     call fib_wrapper
     ret
 end
@@ -8,11 +8,12 @@ func fib_wrapper(n):
     # Call fib(1, 1, 100).
     [ap] = 1; ap++
     [ap] = 1; ap++
-    [ap] = 100; ap++
+    [ap] = 150; ap++
     call fib
 
     # Make sure the 100th Fibonacci number is 927372692193078999176.
-    [ap - 1] = 927372692193078999176
+#    [ap - 1] = 927372692193078999176
+    [ap - 1] = 26099748102093884802012313146549
 
     if n != 0:
         [ap] = n - 1; ap++

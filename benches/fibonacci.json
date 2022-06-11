@@ -3,7 +3,7 @@
     "builtins": [],
     "data": [
         "0x480680017fff8000",
-        "0x64",
+        "0x96",
         "0x1104800180018000",
         "0x3",
         "0x208b7fff7fff7ffe",
@@ -12,11 +12,11 @@
         "0x480680017fff8000",
         "0x1",
         "0x480680017fff8000",
-        "0x64",
+        "0x96",
         "0x1104800180018000",
         "0xd",
         "0x400680017fff7fff",
-        "0x3245e1a61e5624f888",
+        "0x1496cd59f60bb0596832f8dd4b5",
         "0x20780017fff7ffd",
         "0x4",
         "0x10780017fff7fff",
@@ -226,13 +226,13 @@
                 },
                 "hints": [],
                 "inst": {
-                    "end_col": 37,
-                    "end_line": 15,
+                    "end_col": 48,
+                    "end_line": 16,
                     "input_file": {
                         "filename": "fibonacci.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 15
+                    "start_line": 16
                 }
             },
             "15": {
@@ -252,12 +252,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 7,
-                    "end_line": 17,
+                    "end_line": 18,
                     "input_file": {
                         "filename": "fibonacci.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 17
+                    "start_line": 18
                 }
             },
             "17": {
@@ -277,12 +277,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 7,
-                    "end_line": 17,
+                    "end_line": 18,
                     "input_file": {
                         "filename": "fibonacci.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 17
+                    "start_line": 18
                 }
             },
             "19": {
@@ -302,12 +302,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 27,
-                    "end_line": 18,
+                    "end_line": 19,
                     "input_file": {
                         "filename": "fibonacci.cairo"
                     },
                     "start_col": 9,
-                    "start_line": 18
+                    "start_line": 19
                 }
             },
             "21": {
@@ -327,12 +327,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 25,
-                    "end_line": 19,
+                    "end_line": 20,
                     "input_file": {
                         "filename": "fibonacci.cairo"
                     },
                     "start_col": 9,
-                    "start_line": 19
+                    "start_line": 20
                 }
             },
             "23": {
@@ -352,12 +352,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 8,
-                    "end_line": 21,
+                    "end_line": 22,
                     "input_file": {
                         "filename": "fibonacci.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 21
+                    "start_line": 22
                 }
             },
             "24": {
@@ -379,12 +379,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 27,
-                    "end_line": 25,
+                    "end_line": 26,
                     "input_file": {
                         "filename": "fibonacci.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 25
+                    "start_line": 26
                 }
             },
             "26": {
@@ -406,12 +406,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 32,
-                    "end_line": 26,
+                    "end_line": 27,
                     "input_file": {
                         "filename": "fibonacci.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 26
+                    "start_line": 27
                 }
             },
             "27": {
@@ -433,12 +433,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 8,
-                    "end_line": 27,
+                    "end_line": 28,
                     "input_file": {
                         "filename": "fibonacci.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 27
+                    "start_line": 28
                 }
             },
             "28": {
@@ -460,12 +460,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 32,
-                    "end_line": 30,
+                    "end_line": 31,
                     "input_file": {
                         "filename": "fibonacci.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 30
+                    "start_line": 31
                 }
             },
             "29": {
@@ -487,12 +487,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 48,
-                    "end_line": 31,
+                    "end_line": 32,
                     "input_file": {
                         "filename": "fibonacci.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 31
+                    "start_line": 32
                 }
             },
             "30": {
@@ -514,12 +514,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 23,
-                    "end_line": 32,
+                    "end_line": 33,
                     "input_file": {
                         "filename": "fibonacci.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 32
+                    "start_line": 33
                 }
             },
             "32": {
@@ -541,12 +541,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 13,
-                    "end_line": 33,
+                    "end_line": 34,
                     "input_file": {
                         "filename": "fibonacci.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 33
+                    "start_line": 34
                 }
             },
             "34": {
@@ -568,12 +568,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 8,
-                    "end_line": 34,
+                    "end_line": 35,
                     "input_file": {
                         "filename": "fibonacci.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 34
+                    "start_line": 35
                 }
             }
         }
@@ -611,15 +611,8 @@
             "type": "struct"
         },
         "__main__.fib.Return": {
-            "full_name": "__main__.fib.Return",
-            "members": {
-                "res": {
-                    "cairo_type": "felt",
-                    "offset": 0
-                }
-            },
-            "size": 1,
-            "type": "struct"
+            "cairo_type": "(res : felt)",
+            "type": "type_definition"
         },
         "__main__.fib.SIZEOF_LOCALS": {
             "type": "const",
@@ -697,10 +690,8 @@
             "type": "struct"
         },
         "__main__.fib_wrapper.Return": {
-            "full_name": "__main__.fib_wrapper.Return",
-            "members": {},
-            "size": 0,
-            "type": "struct"
+            "cairo_type": "()",
+            "type": "type_definition"
         },
         "__main__.fib_wrapper.SIZEOF_LOCALS": {
             "type": "const",
@@ -739,10 +730,8 @@
             "type": "struct"
         },
         "__main__.main.Return": {
-            "full_name": "__main__.main.Return",
-            "members": {},
-            "size": 0,
-            "type": "struct"
+            "cairo_type": "()",
+            "type": "type_definition"
         },
         "__main__.main.SIZEOF_LOCALS": {
             "type": "const",
